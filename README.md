@@ -5,13 +5,13 @@ This is a small image search engine built using ReactJS, Tailwind CSS, and the P
 
 ## Some rules
 
-– [x] Search for a color/ flower
-– [x] Retrieve data from pixabay and display it
-– [x] Use at least once **await** and **async** functions ( to get data from API )
-– [x] Use **UseEffect** Hook
-– [x] Use **UseState** Hook
-– [x] Use Javascript ( no typescript )
-– [x] Use Tailwind
+[x] Search for a color/ flower  
+[x] Retrieve data from pixabay and display it  
+[x] Use at least once **await** and **async** functions ( to get data from API )  
+[x] Use **UseEffect** Hook  
+[x] Use **UseState** Hook  
+[x] Use Javascript (no typescript)  
+[x] Use Tailwind
 
 ## Scope
 
