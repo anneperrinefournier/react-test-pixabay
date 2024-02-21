@@ -8,6 +8,6 @@ function App() {
       <PixabayImageSearch />
     </div>
   );
-}
+}g
 
 export default App;
