@@ -24,9 +24,9 @@ const PixabayImageSearch = () => {
     }
   }
 
-  if (query.trim() !== '') {
-    fetchData();
-  }
+    if (query.trim() !== '') {
+      fetchData();
+    }
   }, [query]);
 
   // 4. créer un input pour la recherche
